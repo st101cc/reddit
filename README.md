@@ -1,4 +1,4 @@
-# reddit
+# Public Perception of LSE on Reddit
 
 ### Analysis on Public Perception Towards LSE on Reddit
 
